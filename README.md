@@ -16,8 +16,6 @@ An **offline Python voice assistant** built using `speech recognition`, `text-to
 
 ---
 
----
-
 ## 💻 How to Run
 
 ```bash
