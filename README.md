@@ -16,10 +16,6 @@ An **offline Python voice assistant** built using `speech recognition`, `text-to
 
 ---
 
-## 🖼️ Demo
-
-> 🎥 *(Optional)* Add a YouTube link or screen recording GIF here.
-
 ---
 
 ## 💻 How to Run
